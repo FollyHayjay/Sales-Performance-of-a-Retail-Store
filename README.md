@@ -349,3 +349,53 @@ This report examines the monthly revenue distribution for the retail store, iden
     - January, June, and August maintained moderately high revenues, suggesting stable customer demand during these periods.
 4. End-of-Year Performance:
     - Revenue tends to decline towards the end of the year, with October to December showing lower sales figures. Although October has some sales activity (133,920), November and December revenues are relatively low.
+
+
+#### **E. Average Sales Per Product Report**
+This section provides an analysis of the average sales per product for the retail store, offering insights into product performance and customer purchasing behaviour.
+
+#### *F. Average Sales Per Product*
+#### Insights Obtained from the data
+1. Top-Performing Products:
+	- Shirt and Shoes have the highest average sales per product, with 326.56 and 308.70 respectively. This indicates a higher demand or value perception for these items among customers. These products may have a loyal customer base or could be highly popular in seasonal trends, especially for the store's target demographic.
+2. Moderately Performing Products:
+	- Gloves and Hat fall in the mid-range for average sales, with 200.07 and 158.81. These items could be popular during certain seasons or events, like winter or outdoor activities.
+3. Lower-Performing Products:
+	- Socks and Jacket have the lowest average sales per product, with 121.82 and 139.94 respectively. These items might not have strong individual sales or could be subject to lower customer demand.
+	- There may be an opportunity to improve the visibility and appeal of these products through bundling strategies or promotions.
+By understanding product performance, the store can make targeted adjustments in inventory management and marketing to maximize sales across all product categories.
+
+
+#### **F. Monthly Revenue Report**
+---
+This section provides an analysis of the store's revenue distribution across specific months, highlighting key sales periods and opportunities for strategic planning.
+#### Insights Obtained from the data
+1. High Revenue Months:
+	- February stands out with the highest revenue at 546,300, which could indicate a seasonal peak or the effect of a successful promotional campaign. This month may coincide with events like Valentine's Day or post-holiday sales.
+	- July and January followed with revenues of 274,800 and 248,000 respectively. January might benefit from New Year's resolutions or clearance sales, while July could be influenced by mid-year promotions or summer shopping trends.
+2. Moderate Revenue Months:
+	- June and August have moderate revenues of 247,600 and 204,180. These months may capture summer shopping activities, but there may still be room to boost revenue with targeted marketing.
+3. Low Revenue Month:
+	- October shows the lowest revenue among the months listed at 133,920. This may suggest that October is a less active shopping month for this store or that there is potential to increase sales through pre-holiday promotions.
+By analysing monthly revenue patterns, the store can plan promotions and inventory adjustments more effectively, maximizing revenue opportunities throughout the year.
+
+#### **G. Best Six Months Order Analysis**
+---
+This analysis focuses on the top six months by revenue, highlighting patterns in customer demand and potential seasonality.
+#### *Revenue by Month (Top Six)*
+#### *Insights and Observations*
+1. High Revenue Periods:
+	- February stands out with the highest revenue, reaching 546,300. This may indicate a seasonal peak, possibly due to promotions, post-holiday sales, or increased demand during early-year shopping.
+	- July and January also show strong performance, with 274,800 and 248,000 respectively. These months might align with mid-year and beginning-of-year shopping trends, reflecting customer readiness to purchase after holiday seasons or during summer.
+2. Mid-Range Revenue Months:
+	- June and August both maintain moderately high revenues, with 247,600 and 204,180. These months might indicate continued customer engagement during summer, though slightly lower than peak months.
+3. Low Revenue Among Top Months:
+	- October has the lowest revenue among the top six months, with 133,920. While still one of the better-performing months, October may not align with major retail peaks but could provide an opportunity for targeted campaigns to boost revenue in the lead-up to the holiday season.
+
+#### *Seasonality and Customer Demand*
+---
+- Early and Mid-Year Peaks: The concentration of high-revenue months in February, July, and January suggests that early and mid-year might be the peak periods for customer spending.
+- Summer Engagement: June and August show steady revenues, indicating sustained customer interest through the summer months.
+- Pre-Holiday Strategy: October’s position as a lower-revenue month among the top six could indicate an opportunity to strengthen sales before the holiday season begins.
+
+
