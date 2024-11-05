@@ -3,6 +3,29 @@
 ## **Project Title: Sales Performance of a Retail Store**
 
 
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Findings of the Analysis](#findings-of-the-analysis)
+	- [A. Total Sales Overview](#a-total-sales-overview)
+ 	- [B. Sales Performance Analysis by Product and Year](#b-sales-performance-analysis-by-product-and-year)
+	- [C. Regional Product Sales Breakdown (Percentage of Total Revenue)](#c-regional-product-sales-breakdown-percentage-of-total-revenue)
+ 	- [D. Customer Acquisition and Retention by Year and Quarter](#d-customer-acquisition-and-retention-by-year-and-quarter)
+  	- [E. Average Sales Per Product Report](#e-average-sales-per-product-report)
+  	- [F. Monthly Revenue Report](#f-monthly-revenue-report)
+  	- [G. Best Six Months Order Analysis](#g-best-six-months-order-analysis)
+- [Data Visualization](#data-visualization)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
+ 
+
 ### **Project Overview**
 ---
 In this project, the sales performance of a retail store is analysed. However, before the analysis, the Capstone dataset was subjected to data cleaning and preparation to ensure no missing or incorrect values in critical columns like product names, order dates, and sales figures.
@@ -399,3 +422,21 @@ This analysis focuses on the top six months by revenue, highlighting patterns in
 - Pre-Holiday Strategy: October’s position as a lower-revenue month among the top six could indicate an opportunity to strengthen sales before the holiday season begins.
 
 
+### **Data Visualization**
+---
+Attached here is the Power BI dashboard created to present the findings of Project One.
+
+
+### **Recommendations**
+
+
+
+### **Limitations**
+---
+I have to remove duplicate entries/values from the data because it would have affected the accuracy of my conclusions from the analysis.
+
+
+
+### **References**
+---
+1. LITA videos on Youtube [www.youtube.com/@theincubatornnigeria]
