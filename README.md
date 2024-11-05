@@ -3,7 +3,6 @@
 ## **Project Title: Sales Performance of a Retail Store**
 
 
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
@@ -426,8 +425,26 @@ This analysis focuses on the top six months by revenue, highlighting patterns in
 ---
 Attached here is the Power BI dashboard created to present the findings of Project One.
 
+![Power bi Image 1](https://github.com/user-attachments/assets/e2413fdd-fa61-4ebb-92ec-fe83e876e6cb)
 
 ### **Recommendations**
+1.	Inventory Management: Increase stock levels for gloves and jackets in colder months, aligning with seasonal demand.
+2.	Promotional Campaigns: Focus marketing efforts on Q1 and Q4 for products with peak sales patterns.
+3.	Product Focus: Investigate the factors contributing to the decline in jackets and socks, and consider adjusting pricing, design, or advertising strategies.
+4.	Region-Specific Promotions: Focus on high-performing regions, such as the South, to maximize revenue.
+5.	Seasonal Inventory Adjustments: Increase inventory for gloves and jackets during colder months based on seasonal demand patterns.
+6.	Product Line Review: Evaluate reasons behind the decline in jackets and socks sales, possibly adjusting strategies based on customer feedback or market research.
+7.	Product Promotions by Region:
+I.	South: Focus promotions on shoes and winter accessories (gloves, socks).
+II.	East: Emphasize shirts and outdoor gear, particularly hats and jackets.
+III.	North: Increase marketing efforts for shirts and jackets, catering to seasonal demand.
+IV.	West: Prioritize hats in promotions, along with accessories like gloves and socks.
+8.	Inventory Adjustments:
+I.	Allocate more inventory for shoes in the South and shirts in the North and East, given their high regional demand.
+II.	Adjust stock levels for hats in the West, as this product category shows strong performance.
+9.	Seasonal Marketing:
+I.	Leverage the strong winter accessory demand in the South and West with seasonal promotions.
+
 
 
 
